@@ -1,4 +1,3 @@
-#add slots - randint 
 streamlit as st
 import random
 import time
